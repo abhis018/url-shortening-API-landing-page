@@ -1,0 +1,29 @@
+li {
+    list-style-type: none;
+}
+.list {
+    display: flex;
+    color: white;
+    background-color: rgb(39, 35, 35);
+}
+.logo {
+    padding-top: 30px;
+    margin-left: 20px;
+    flex: 30%;
+    margin-right: 80px;
+}
+.pic12 {
+    flex: 40%;
+    height: 20px;
+    padding-top: 30px;
+    margin-left: 150px;
+    margin-right: 250px;
+}
+
+.bi {
+    padding-left: 10px;
+}
+.order {
+    flex: 30%;
+    text-align: left;
+}

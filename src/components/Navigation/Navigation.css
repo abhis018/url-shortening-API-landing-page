@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    margin-top: 10px;
+}
+
+.li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 15px;
+}
+
+.pic {
+    width: 80px;
+    height: 30px;
+    padding-top: 8px;
+    margin-left: 150px;
+}
+
+ul {
+    font-size: 13px;
+}
+
+.ul2 {
+    padding-left: 45%;
+    font-size: 13px;
+}
+.but {
+    margin-left: 15px;
+    border-radius: 15px;
+    border: 1px none;
+    font-size: 12px;
+    padding: 5px;
+    width: 100px;
+    background-color: hsl(257, 7%, 63%);
+    color: white;
+}
